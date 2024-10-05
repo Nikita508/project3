@@ -1,2 +1,2 @@
 # new project
-this project was created.
+this project was created by nikita.
